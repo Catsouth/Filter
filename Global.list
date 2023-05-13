@@ -221,7 +221,7 @@ DOMAIN,tv.apple.com
 # > News
 # ------
 # > Microsoft
-DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.com（可以变成代理链接吗，现在是直连）
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
